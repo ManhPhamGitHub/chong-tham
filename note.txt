@@ -1,0 +1,163 @@
+Chống thấm nhà vệ sinh
+Thấm do Trần bị nứt
+Chống thấm sân thượng - mái hiên 
+
+
+Địa chỉ: số 56A vệ đà - phường quảng thắng - Thành phố thanh hoá
+Sđt: 0989147755 hoặc 0855735999
+
+56A Vệ Đà - Quảng Thắng - Thanh Hoá
+
+secondary color :#f2f50a
+
+
+      <section class="section semnix-about" id="section_275467407">
+                    <div class="bg section-bg fill bg-fill  bg-loaded">
+                    </div>
+                    <div class="section-content relative">
+                        <div class="message-box relative">
+                            <div class="message-box-bg-image bg-fill fill">
+                            </div>
+                            <div class="message-box-bg-overlay bg-fill fill"
+                                style="background-color:rgb(237, 242, 248);">
+                            </div>
+                            <div class="container relative">
+                                <div class="inner last-reset">
+                                    <div class="row align-middle align-center" id="row-591259304">
+
+                                        <!-- tieu de -->
+                                        <div class="col small-12 large-12">
+                                            <div class="col-inner" style="margin:0px 0px 30px 0px;">
+
+                                                <div class="container section-title-container">
+                                                    <h1 class="section-title section-title-center">
+                                                        <b></b><span class="section-title-main">CHỐNG THẤM Thăng
+                                                            Nguyễn</span><b></b>
+                                                    </h1>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <!-- box trai -->
+                                        <div class="col medium-12 small-12 large-12">
+                                            <div class="col-inner text-left" style="margin:0px 0px 10px 0px;">
+                                                <!-- <p><strong><span style="color: #000000;">Xin kính chào quý khách!. Tự
+                                                            hào là đơn vị đi đầu trong lĩnh vực chống thấm với việc sử
+                                                            dụng hệ thống máy móc, công nghệ tiên tiến trong các lĩnh
+                                                            vực:</span></strong></p> -->
+                                                <table class="table"
+                                                    style="border-collapse: collapse; width: 100%; height: 240px;">
+                                                    <tbody>
+                                                        <tr style="height: 24px;">
+                                                            <td class="box-trai-td">
+                                                                <a
+                                                                class="box-trai"
+                                                                href="./dichvu.html">
+                                                                    <h2 style="color: #212a31;text-align: center;">
+                                                                        Chống thấm tầng hầm</h2>
+                                                                    <img style="width:100%; height:200px;object-fit: cover;"
+                                                                        src="./public/z3893870218621_550204a7474875efd1d8d0f6a6ddbea4.jpg" />
+                                                                    <p>
+                                                                        Khi thi công các công trình ngầm, các tầng
+                                                                        hầm…thì công đoạn xử lý chống thấm rất quan
+                                                                        trọng vì công đoạn này góp phần không nhỏ quyết
+                                                                        định tới tuổi thọ kết cấu, tính bền vững của
+                                                                        công trình. Do đặc thù
+                                                                    </p>
+                                                                </a>
+                                                            </td>
+                                                            <td class="box-trai-td">
+                                                                <a
+                                                                class="box-trai"
+                                                                href="./dichvu.html">
+                                                                    <h2 style="color: #212a31;text-align: center;">
+                                                                        Chống thấm sàn mái</h2>
+                                                                    <img style="width:100%; height:200px;object-fit: cover;"
+                                                                        src="./public/z3893870259172_7c376e7abdf1abbbbc7b72710e1246b8.jpg" />
+                                                                    <p>
+                                                                        Hiện nay cùng với sự phát triển mạnh của đất nước các khu công nghiệp lớn, các tòa nhà cao tầng mọc lên trên khắp đất nước. Việc sử dụng mái tôn đem lại hiệu quả cao (thi công nhanh, giá thành hạ…) khi xây dựng các nhà máy sản xuất, kho hàng, siêu thị […]
+
+                                                                    </p>
+                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        <tr style="height: 24px;">
+                                                            <td class="box-trai-td">
+                                                                <a
+                                                                class="box-trai"
+                                                                href="./dichvu.html">
+                                                                    <h2 style="color: #212a31;text-align: center;">
+                                                                        Chống thấm tường nhà</h2>
+                                                                    <img style="width:100%; height:200px;object-fit: cover;"
+                                                                        src="./public/z3913204705395_217e7753bd3643fcebfb06af4f2b1e57.jpg" />
+                                                                    <p>
+                                                                        Phần lớn người dân đang rất lo lắng cho ngôi nhà của mình sẽ bị thấm, dột khi mùa mưa tới. Đây là vấn đề khiến nhiều người phải đau đầu suy nghĩ và tìm cách khắc phục chống thấm như thế nào cho hiệu quả. Trước tiên để 
+                                                                    </p>
+                                                                </a>
+                                                            </td>
+                                                            <td class="box-trai-td">
+                                                                <a
+                                                                class="box-trai"
+                                                                href="./dichvu.html">
+                                                                    <h2 style="color: #212a31;text-align: center;">
+                                                                        Chống thấm nhà vệ sinh</h2>
+                                                                    <img style="width:100%; height:200px;object-fit: cover;"
+                                                                        src="./public/z3893870301217_82b27c6fb764921ec8a762ccbd709542.jpg" />
+                                                                    <p>
+                                                                        Chống thấm nhà vệ sinh tại Hà Nội chất lượng cao giá rẻ nhất là dịch vụ tốt với giải pháp công nghệ cao của công ty Cổ phần Xây dựng Chống thấm ứng dụng công nghệ
+                                                                    </p>
+                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                        <tr style="height: 24px;">
+                                                            <td class="box-trai-td">
+                                                                <a
+                                                                class="box-trai"
+                                                                href="./dichvu.html">
+                                                                    <h2 style="color: #212a31;text-align: center;">
+                                                                        Lăn sơn chống thấm</h2>
+                                                                    <img style="width:100%; height:200px;object-fit: cover;"
+                                                                        src="./public/z3913204722512_f4e4dae2f891f2728d0b96d67c828561.jpg" />
+                                                                    <p>
+                                                                        Những công trình xây dựng được thi công chu đáo hạng mục chống thấm dột tường thì luôn có độ bền vững cao, ổn định trước tác động của môi trường và yên tâm cho
+                                                                    </p>
+                                                                </a>
+                                                            </td>
+                                                            <td class="box-trai-td">
+                                                                <a
+                                                                class="box-trai"
+                                                                href="./dichvu.html">
+                                                                    <h2 style="color: #212a31;text-align: center;">
+                                                                        Xử lý ẩm mốc chân tường và trần nhà</h2>
+                                                                    <img style="width:100%; height:200px;object-fit: cover;"
+                                                                        src="./public/trannha.jpg" />
+                                                                    <p>
+                                                                        Chúng ta đã biết, khi nước thấm lên tường đã mang theo một lượng muối khoáng có trong nước, cùng nhiều vi chất “bổ dưỡng” cho các loại nấm mốc tồn tại phát triển, chính vì điều này chúng ta có phần nào hiểu được, tại sao ở Việt
+                                                                    </p>
+                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                <a href="http://chongthammanhhung.com/dich-vu-cua-cong-ty/"
+                                                    class="button secondary is-shade">
+                                                    <span>Xem thêm</span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <style scope="scope">
+                                        </style>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <style scope="scope">
+                        #section_275467407 {
+                            padding-top: 30px;
+                            padding-bottom: 30px;
+                            min-height: 200px;
+                            background-color: rgb(237, 242, 248);
+                        }
+                    </style>
+                </section>
