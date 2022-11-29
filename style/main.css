@@ -1587,11 +1587,11 @@ justify-content: space-evenly
         flex-direction: column;
         align-items: center;
     }
-    .content_detail >h4{
+    .content_detail > h4{
         text-align: center;
-        color:#f2f50a
+        color:white
     }
-    .content_detail > img{
+    .content_detail img{
         border-radius: 50%;
         /* object-fit: cover; */
         width: 150px;
@@ -1601,12 +1601,30 @@ justify-content: space-evenly
         display: flex;
         align-items: center;
         flex-direction: column;
+        width: 20%;
     }
     .paint-service > img{
-        width: 300px;
+        width: 100%;
         height: 180px;
         border-radius: 15px;
     }
+    .paint-service > h4{
+        text-align: center;
+    }
     .content-son-group{
         display: flex;
+    }
+
+    @media only screen and (max-width: 767px) {
+        .content-son-group{
+            flex-direction: column;
+            align-items: center;
+            flex-flow: wrap;
+        }
+        .content-son-group-detail{
+            width: 40%;
+        }
+        .paint-service{
+            width: 80%;
+        }
     }
